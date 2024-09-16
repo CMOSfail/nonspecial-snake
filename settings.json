@@ -1,0 +1,9 @@
+{
+  "bombs_enabled": true,
+  "bomb_behavior": 2,
+  "golden_apple_enabled": true,
+  "golden_apple_duration": 10,
+  "speed_percentage": 100,
+  "screen_width": 1280,
+  "screen_height": 720
+}
