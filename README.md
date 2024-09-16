@@ -1,14 +1,10 @@
 # Very Non-Special Snake Game!!!1!
-(Heading Level 1)
 
 ## Overview
-(Heading Level 2)
 
 The Very Non-Special Snake Game!!!1! is a classic snake game developed in Python using the pygame library. This project is designed both for fun and as a learning tool for those interested in game development with Python. The game includes various features such as bombs, golden apples, and customizable settings to enhance the gameplay experience.
-(Paragraph)
 
 ## Features
-(Heading Level 2)
 
 - **Classic Snake Gameplay**: Control the snake to eat apples and grow longer.
 
